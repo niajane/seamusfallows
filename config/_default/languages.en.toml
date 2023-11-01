@@ -15,15 +15,16 @@ title = "Seamus Fallows"
 
 [author]
 name = "Seamus Fallows"
-image = "img/gibbon.png"
-headline = "I'm only a gibbon"
+image = "img/seamus_square3.png"
+headline = ""
 bio = "A little bit about you"
 links = [
-  { email = "mailto:hello@your_domain.com" },
-  { researchgate = "https://www.researchgate.net/profile/username" },
-  { github = "https://github.com/username" },
-  { linkedin = "https://linkedin.com/in/username" },
-  { link = "https://link-to-some-website.com/" },
+  { email = "mailto:seamusfallows1@gmail.com" },
+  { inspire-square = "https://inspirehep.net/authors/1814724" },
+  { arxiv = "https://arxiv.org/search/hep-th?searchtype=author&query=Fallows,+S" },
+  { github = "https://github.com/seamus-fallows" },
+#  { linkedin = "https://linkedin.com/in/username" },
+  { file-solid = "/cv" },
 ]
 
 #     { link = "https://link-to-some-website.com/" },
