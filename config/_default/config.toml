@@ -4,7 +4,7 @@
 
 theme = ["hugo-embed-pdf-shortcode", "blowfish"]
 enableInlineShortcodes = true
-baseURL = "/"
+baseURL = "www.seamusfallows.com/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
