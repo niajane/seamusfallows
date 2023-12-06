@@ -19,7 +19,6 @@ image = "img/seamus_square3.png"
 headline = ""
 bio = "A little bit about you"
 links = [
-  { email = "mailto:seamusfallows1@gmail.com" },
   { inspire-square = "https://inspirehep.net/authors/1814724" },
   { arxiv = "https://arxiv.org/search/hep-th?searchtype=author&query=Fallows,+S" },
   { github = "https://github.com/seamus-fallows" },
